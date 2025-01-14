@@ -1,3 +1,9 @@
+/* Diagnostic Styling */
+*{
+  outline: 5px dotted gray;
+}
+
+/* temp background color */
 body { 
-    background: lightblue;
+    background: lightpink;
   }
